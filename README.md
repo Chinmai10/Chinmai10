@@ -51,7 +51,7 @@ A passionate **AI/ML Developer** and **Devops Engineer** from India
 
 ---
 
-# 📊 GitHub Stats (YOUR STATS):
+# 📊 GitHub Stats:
 <table>
   <tr>
     <td>
